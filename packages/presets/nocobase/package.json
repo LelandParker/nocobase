@@ -24,7 +24,7 @@
     "@nocobase/plugin-calendar": "1.3.47-beta",
     "@nocobase/plugin-charts": "1.3.47-beta",
     "@nocobase/plugin-client": "1.3.47-beta",
-    "@nocobase/plugin-collection-sql": "1.3.47-beta",
+    "@nocobase/plugin-collection-sql": "2.0.39",
     "@nocobase/plugin-collection-tree": "1.3.47-beta",
     "@nocobase/plugin-data-source-main": "1.3.47-beta",
     "@nocobase/plugin-data-source-manager": "1.3.47-beta",
@@ -62,7 +62,7 @@
     "@nocobase/plugin-workflow-mailer": "1.3.47-beta",
     "@nocobase/plugin-workflow-manual": "1.3.47-beta",
     "@nocobase/plugin-workflow-parallel": "1.3.47-beta",
-    "@nocobase/plugin-workflow-request": "1.3.47-beta",
+    "@nocobase/plugin-workflow-request": "2.0.37",
     "@nocobase/plugin-workflow-sql": "1.3.47-beta",
     "@nocobase/server": "1.3.47-beta",
     "cronstrue": "^2.11.0"
